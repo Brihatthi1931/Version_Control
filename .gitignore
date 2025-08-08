@@ -1,2 +1,5 @@
 Version Controlled Devops
-.log
+node_modules/
+logs/
+*.log
+*.tmp
